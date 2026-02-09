@@ -1,0 +1,14 @@
+{ "columns":24,
+ "image":"..\/Assets\/Plataformas\/Inside_C.png",
+ "imageheight":768,
+ "imagewidth":768,
+ "margin":0,
+ "name":"Deco",
+ "spacing":0,
+ "tilecount":576,
+ "tiledversion":"1.11.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
