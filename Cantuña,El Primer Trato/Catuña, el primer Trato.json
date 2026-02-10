@@ -769,6 +769,622 @@
         "name": "NewSprite10",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Fogata.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fogata.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Desactivado.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Desactivado",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Desactivado2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Desactivado2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Desactivado3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Desactivado3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Desactivado.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Desactivado.png\",\"extension\":\".png\"}",
+        "name": "Desactivado.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Activado.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Activado",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Activado2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Activado2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Activado3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Activado3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Desactivado4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Desactivado4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Desactivado4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Desactivado4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Activado4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Activado4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Activado5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Activado5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Activado6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Activado6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/__MACOSX/Zombie_2/._Walk.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\__MACOSX\\Zombie_2\\._Walk.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Zombie_2/Walk.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Zombie_2\\Walk.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite13.png\"}",
+        "name": "NewSprite11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite13.png\"}",
+        "name": "NewSprite12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite13.png\"}",
+        "name": "NewSprite13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite14.png\"}",
+        "name": "NewSprite14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite15.png\"}",
+        "name": "NewSprite15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite16.png\"}",
+        "name": "NewSprite16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite17.png\"}",
+        "name": "NewSprite17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite18.png\"}",
+        "name": "NewSprite18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite19.png\"}",
+        "name": "NewSprite19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite20.png\"}",
+        "name": "NewSprite20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Zombie_2/Dead.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Zombie_2\\Dead.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Caminar31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Caminar31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Muerte.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Muerte",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Muerte2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Muerte2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Muerte3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Muerte3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Muerte4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Muerte4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Muerte5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Muerte5",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -3275,13 +3891,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "looping": true,
+              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"New Animation\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAtxJREFUeF7tmj1ywjAQhU0bjkGVU5Cau1DlHKm4C3U4RSqOQdpkxCAQsqT902plG5pMsLzW+/R2tQhWw8Jfq5v+v4VyWI0AfO73s2bxdTiE+h4AnHB3cc4AQn03EM8AHJo5Q1gsgJ/zeTgej8Nut7vb3/0/DMN8HeBEu9dN6JP44P00ADcAqgUtUsWLSFXl981m9HY8Pie+CCCuAy5o6mHcraIkihszdV9s+XhMNgVCAF48dSVyQlqIL616OC8UAHdDi0nXWnmseHQKTEm8FxVW+hLYkQMSW8SoctZaKa04UN4XUyAmRwmmJYgalzLnogMwdqI8jCKEG5d6nxgARVSLsS8AUasLQUc5wAXBVlXogdrXqzsAUwe0RWHjU/Z/HxN0wFQAcMQnG6GU1bnBsSsnHSeZH8oBkV26qgcS8WgHJDqnbiBQi17sNpIDegMhFc9ygDUEL7qGeDGAIMCVS4teQZrz1VIgE0gNQm3hpD4Au03VnqSPp+kudhEsQZGCkN6PXbAqNSD3MK6IWsUNC0HFAdzGqbV4VQdQIHDdgl1lRLo+vhjR2MpyK2spXGUXgEjHB64asKmuUK0Bua7RIteBYq2bApR6QF1B6fhmDvAVtwfbJ5zZzgGtAUDp9nJA/AMJrRXqYctL1YtmDsBYUQs+tD0//URGaxKLd4DF4QlmixSnAGTtQt6pHZ5ghDdvhXMnSJqHHRgQYgdgHoIoQmZuMAdg3SF2AcASQlcALOoBCQCn4lNqhEWvQAJAEcMdqw05sxu1+TSIgdLaBd05IOwYtdry4nnAx3Z7v/62XmMWDRzDsbW2E34vl+u8v08n9+eRAhoAIEKlU2MNF3jxIAA3oJYLIAganxlCobnnFx1gDYDTIGFEhzBAANYQKLWAKh6VAiEtq3SAIHCEe10oB/jBVgBSqSARTU6BXgD4eYQ7Fae4sgFY1oNo3x5qQRilgJToRO+/N0ITnb982v/TUlpfuT6YvQAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAlVJREFUeF7tmuERwiAMhXUid3Al53Ald3AiPXqlRzE0fTwMheI/z1rIl5cHpL1eTv65njz+S8sAPvfnLTt/r8d7in0AyEZY/4+nVgAVvMtdyyVAB98ygI+bPGN+vnJbVUCR7DetgBLZHwAaNsHJA0r4QKse4OOnzbB1AA4EBaEHABOEXFMcAHo4DDFm2IMCsuXP7gOWpUg4EFodrykDpAFIxvN6vC37C1T2EQBitjcAWEGwA4AsM4YqMAEA19kMQOsVlfAJeG7xpPasAjRlYdCSJULNTwNAE5ZkULhEqDmqAJDa1zQfdGFKKmA5D+wZP47HHMA8oMua9wC/wpTwBI3Bj1rMAcxr7zJRn5HAOP8NYoJ/f94mGCoAZp+tpePP5pgaPt7TqE+GKJNBIBQ2R2Ro9dGYCYQjA6A7Lwm5S1n6tweIytg7KLXpiAxw75iQlHMv3jsZqhQMnR7msBfAatOBbpJq1rhGBAHg7wWroTcA0BY0yEAObC2B9O+HnBQdFXCDAQCA1eWlQwFdphUIaigAgNXlpUMBXaYVCGooAIDV5aWhAiy7tDVhruJcALhuqfJoq4VyST26X7Xi3XH+pyvs28VSag7W0JCCdAGKx/Q4qUE7ft0V3gJwgJZW8v3AMECkUQMpwKsiomlZEnRPUmjOYgoIb1ChwwN3oTSXzVKAoIRmVUABqOQJRVVAAwggNKmCZgE48Ijbp7yABlBxb1BkRRgA4neFtY3Qxg7R0gOWZxJsGdAKiFYC99USBF0G2hsi2j4i/j189wf9b9XrLbNWNdDU4F99fChQ2kQMYQAAAABJRU5ErkJggg==\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"resourceNames\":[\"Desactivado4\"],\"name\":\"Desactivado\"}}",
+              "timeBetweenFrames": 0.16666666666666666,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite9",
+                  "image": "Desactivado4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3297,20 +3913,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 1,
+                        "y": 1
                       },
                       {
-                        "x": 64,
-                        "y": 0
+                        "x": 63,
+                        "y": 1
                       },
                       {
-                        "x": 64,
-                        "y": 64
+                        "x": 63,
+                        "y": 63
                       },
                       {
-                        "x": 0,
-                        "y": 64
+                        "x": 1,
+                        "y": 63
                       }
                     ]
                   ]
@@ -3324,13 +3940,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.1111111111111111,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite10",
+                  "image": "Activado4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3346,20 +3962,707 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 1,
+                        "y": 1
                       },
                       {
-                        "x": 64,
-                        "y": 0
+                        "x": 63,
+                        "y": 1
                       },
                       {
-                        "x": 64,
-                        "y": 64
+                        "x": 63,
+                        "y": 63
                       },
                       {
-                        "x": 0,
-                        "y": 64
+                        "x": 1,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Activado5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 1
+                      },
+                      {
+                        "x": 63,
+                        "y": 1
+                      },
+                      {
+                        "x": 63,
+                        "y": 63
+                      },
+                      {
+                        "x": 1,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Activado6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 1
+                      },
+                      {
+                        "x": 63,
+                        "y": 1
+                      },
+                      {
+                        "x": 63,
+                        "y": 63
+                      },
+                      {
+                        "x": 1,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Zombie",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "PuedeMoverse",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Direccion",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1300,
+          "canGoDownFromJumpthru": false,
+          "deceleration": 1600,
+          "ignoreDefaultControls": true,
+          "maxSpeed": 110,
+          "jumpSpeed": 400,
+          "gravity": 1000,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "useRepeatedJump": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "Caminar",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite26",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite27",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite28",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite29",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite30",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite31",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite32",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite33",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite34",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite35",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Muerte",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.1111111111111111,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Muerte",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Muerte2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Muerte3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Muerte4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Muerte5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 37,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 31
+                      },
+                      {
+                        "x": 91,
+                        "y": 96
+                      },
+                      {
+                        "x": 37,
+                        "y": 96
                       }
                     ]
                   ]
@@ -3423,6 +4726,9 @@
       },
       {
         "objectName": "Checkpoint"
+      },
+      {
+        "objectName": "Zombie"
       }
     ]
   },
@@ -3477,7 +4783,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.49508400737493935,
+        "zoomFactor": 1.026942587498221,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -5012,8 +6318,8 @@
           "name": "Direccionador",
           "persistentUuid": "faaf65c9-3eb0-4d27-bcf3-61ae56c4d7a4",
           "width": 28,
-          "x": 652,
-          "y": 571,
+          "x": 639,
+          "y": 572,
           "zOrder": 25,
           "numberProperties": [
             {
@@ -5027,15 +6333,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 33,
+          "depth": 0.68,
+          "height": 17.679999999999996,
           "keepRatio": true,
           "layer": "",
           "name": "Checkpoint",
           "persistentUuid": "7e5c5aa4-684b-49b2-a9c9-242d8388ebde",
-          "width": 33,
-          "x": 1341,
-          "y": 533,
+          "width": 17,
+          "x": 1318,
+          "y": 553,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -5044,15 +6350,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 43,
+          "depth": 0.3695652173913043,
+          "height": 15.891304347826086,
           "keepRatio": true,
           "layer": "",
           "name": "Checkpoint",
           "persistentUuid": "6ddf1c05-7d23-4bf2-857d-2e26080a14e5",
-          "width": 46,
-          "x": 5135,
-          "y": 323,
+          "width": 17,
+          "x": 5139,
+          "y": 362,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -5062,14 +6368,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 43,
+          "height": 17,
           "keepRatio": true,
           "layer": "",
           "name": "Checkpoint",
           "persistentUuid": "15bc6e03-80cf-4928-9bf3-3a0a6cd19170",
-          "width": 46,
-          "x": 3330,
-          "y": 207,
+          "width": 17,
+          "x": 3349,
+          "y": 234,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -5940,15 +7246,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 26,
+          "height": 19,
           "keepRatio": true,
           "layer": "",
           "name": "Checkpoint",
           "persistentUuid": "0d41f499-a6bc-41a5-9a2e-2fca8861a8b8",
-          "width": 25,
-          "x": 654,
-          "y": 543,
-          "zOrder": 30,
+          "width": 17,
+          "x": 666,
+          "y": 583,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6008,6 +7314,158 @@
           "x": 5830,
           "y": 272,
           "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Direccionador",
+          "persistentUuid": "88e742ce-7118-4f83-98db-843bd915b016",
+          "width": 0,
+          "x": 7964,
+          "y": 412,
+          "zOrder": 31,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Duende",
+          "persistentUuid": "58de7b36-b671-4030-806e-7dd317d29d47",
+          "width": 35,
+          "x": 8072,
+          "y": 433,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Direccionador",
+          "persistentUuid": "3535d47e-75ad-4aec-a1ab-bfc79c94933c",
+          "width": 0,
+          "x": 8228,
+          "y": 411,
+          "zOrder": 32,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.7727272727272727,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Checkpoint",
+          "persistentUuid": "e60a3abe-00d0-413c-9ff8-b4e7a291c021",
+          "width": 17,
+          "x": 8470,
+          "y": 426,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Direccionador",
+          "persistentUuid": "ceea1828-5cc8-47bf-9d3f-057f9425576a",
+          "width": 0,
+          "x": 6633,
+          "y": 350,
+          "zOrder": 31,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Duende",
+          "persistentUuid": "3f4a618e-2828-440e-826d-06ffa1ce320a",
+          "width": 35,
+          "x": 6717,
+          "y": 369,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Direccionador",
+          "persistentUuid": "94bed2d1-e975-4177-89f8-c0b43426e42b",
+          "width": 0,
+          "x": 6855,
+          "y": 352,
+          "zOrder": 32,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.3469387755102041,
+          "height": 18.04081632653061,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Checkpoint",
+          "persistentUuid": "2ff404d3-ba8e-4bf1-be50-fc181533cdb5",
+          "width": 17,
+          "x": 7400,
+          "y": 361,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6857,7 +8315,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 2.5143672964988144,
+        "zoomFactor": 0.6244537826600177,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -6874,8 +8332,8 @@
           "name": "Mapas",
           "persistentUuid": "ff560133-963d-490f-86ed-7d4b7479f0e5",
           "width": 0,
-          "x": -37,
-          "y": -4039,
+          "x": -38,
+          "y": -4040,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -6902,14 +8360,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 96,
-          "keepRatio": true,
+          "height": 54,
           "layer": "",
           "name": "Jugador",
           "persistentUuid": "81283761-5e10-44a8-9342-8139102f1dfc",
-          "width": 192,
-          "x": -64,
-          "y": 608,
+          "width": 91,
+          "x": 0,
+          "y": 672,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -7525,6 +8982,99 @@
               "value": 4
             }
           ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Direccionador",
+          "persistentUuid": "540ac673-198b-4f40-9faf-fef388a06878",
+          "width": 0,
+          "x": 832,
+          "y": 672,
+          "zOrder": 8,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Direccionador",
+          "persistentUuid": "bcfe5b58-8348-4108-8be3-093743a94a06",
+          "width": 0,
+          "x": 1120,
+          "y": 672,
+          "zOrder": 9,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Checkpoint",
+          "persistentUuid": "96f01f16-2a60-450c-b18f-c1a425aaffa5",
+          "width": 17,
+          "x": 96,
+          "y": 712,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 17,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Checkpoint",
+          "persistentUuid": "baae0782-a1b8-488e-a8c5-2ff6e1c5b421",
+          "width": 17,
+          "x": 640,
+          "y": 704,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 91,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Zombie",
+          "persistentUuid": "fb487edf-0fdc-414d-97ba-86ae9c0a45f1",
+          "width": 91,
+          "x": 1024,
+          "y": 672,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -7692,17 +9242,6 @@
               ]
             }
           ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
         }
       ],
       "objectsFolderStructure": {
@@ -7710,9 +9249,6 @@
         "children": [
           {
             "objectName": "Mapas"
-          },
-          {
-            "objectName": "NewSprite"
           },
           {
             "objectName": "Colisiones"
@@ -7773,7 +9309,7 @@
           "include": {
             "includeConfig": 0
           },
-          "target": "Jugador"
+          "target": "EnemigoZombie"
         },
         {
           "type": "BuiltinCommonInstructions::Link",
@@ -7781,6 +9317,13 @@
             "includeConfig": 0
           },
           "target": "Enemigo"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Jugador"
         }
       ],
       "layers": [
@@ -10811,6 +12354,572 @@
     },
     {
       "associatedLayout": "Nivel 1",
+      "name": "EnemigoZombie",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Enemigo"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Activar Desplazamiento"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "Zombie",
+                "Jugador",
+                "400",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "Zombie",
+                "PuedeMoverse",
+                "True",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Desplazamiento"
+        },
+        {
+          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Zombie",
+                "PuedeMoverse",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Izq-Der"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "Direccion",
+                    "=",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateControl"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "PlatformerObject",
+                    "\"Left\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "Flippable",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "Direccion",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateControl"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "PlatformerObject",
+                    "\"Right\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "Flippable",
+                    "yes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Cambiar de Direccion"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Zombie",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Zombie",
+                "Animation",
+                "!=",
+                "\"Muerte\""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "Direccionador",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Direccionador",
+                    "Animation",
+                    "=",
+                    "\"Izquierda\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "Direccion",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "Direccionador",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Direccionador",
+                    "Animation",
+                    "=",
+                    "\"Derecha\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "Direccion",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Cambiar de Direccion"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Jugador",
+                "Zombie",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Zombie",
+                "Animation",
+                "!=",
+                "\"Muerte\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Si le cae encima lo derrota"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Jugador",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SetCanJump"
+                  },
+                  "parameters": [
+                    "Jugador",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateControl"
+                  },
+                  "parameters": [
+                    "Jugador",
+                    "PlatformerObject",
+                    "\"Jump\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "PlatformerObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Zombie",
+                    "Animation",
+                    "=",
+                    "\"Muerte\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Score",
+                    "+",
+                    "1"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Informacion Visual"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Zombie",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Informacion",
+                        "Zombie.BoundingBoxCenterX()-25",
+                        "Zombie.BoundingBoxCenterY()-25",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Informacion",
+                        "Text",
+                        "=",
+                        "\"+1\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                      },
+                      "parameters": [
+                        "Informacion",
+                        "Tween",
+                        "\"Elevar\"",
+                        "Informacion.Y()-20",
+                        "\"easeInOutBack\"",
+                        "0.5",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Informacion",
+                        "Tween",
+                        "\"Desvanecer\"",
+                        "0",
+                        "\"linear\"",
+                        "0.5",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Eliminar Cadaver"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Zombie",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "Zombie",
+                        "Tween",
+                        "\"Gone\"",
+                        "0",
+                        "\"linear\"",
+                        "0.5",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Jugador",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Link",
+                  "include": {
+                    "includeConfig": 0
+                  },
+                  "target": "Muerte del Personaje"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Nivel 1",
       "name": "Muerte del Personaje",
       "events": [
         {
@@ -10981,7 +13090,7 @@
               "parameters": [
                 "CheckX",
                 "=",
-                "Checkpoint.X()"
+                "Checkpoint.X()-20"
               ]
             },
             {
